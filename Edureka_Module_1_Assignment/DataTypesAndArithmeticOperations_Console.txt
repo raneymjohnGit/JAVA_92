@@ -1,0 +1,47 @@
+ Addition of Byte data types 20 + 10 = 30
+ Subtraction of Byte data types 20 - 10 = 10
+ Multiplication of Byte data types 20 * 10 = 200
+ Division of Byte data types 20 / 10 = 2
+ Increment of Byte data types ++20 = 21 and 10++ = 10
+ Decrement of Byte data types --20 = 19 and 10-- = 10
+ Addition of Short data types 20 + 10 = 30
+ Subtraction of Short data types 20 - 10 = 10
+ Multiplication of Short data types 20 * 10 = 200
+ Division of Short data types 20 / 10 = 2
+ Increment of Short data types ++20 = 21 and 10++ = 10
+ Decrement of Short data types --20 = 19 and 10-- = 10
+ Addition of Integer data types 20 + 10 = 30
+ Subtraction of Integer data types 20 - 10 = 10
+ Multiplication of Integer data types 20 * 10 = 200
+ Division of Integer data types 20 / 10 = 2
+ Increment of Integer data types ++20 = 21 and 10++ = 10
+ Decrement of Integer data types --20 = 19 and 10-- = 10
+ Addition of Long data types 444444 + 222222 = 666666
+ Subtraction of Long data types 444444 - 222222 = 222222
+ Multiplication of Long data types 444444 * 222222 = 98765234568
+ Division of Long data types 444444 / 222222 = 2
+ Increment of Long data types ++444444 = 444445 and 222222++ = 222222
+ Decrement of Long data types --444444 = 444443 and 222222-- = 222222
+ Addition of Float data types 444444.0 + 222222.0 = 666666.0
+ Subtraction of Float data types 444444.0 - 222222.0 = 222222.0
+ Multiplication of Float data types 444444.0 * 222222.0 = 9.8765234E10
+ Division of Float data types 444444.0 / 222222.0 = 2.0
+ Increment of Float data types ++444444.0 = 444445.0 and 222222.0++ = 222222.0
+ Decrement of Float data types --444444.0 = 444443.0 and 222222.0-- = 222222.0
+ Addition of Double data types 444444.0 + 222222.0 = 666666.0
+ Subtraction of Double data types 444444.0 - 222222.0 = 222222.0
+ Multiplication of Double data types 444444.0 * 222222.0 = 9.8765234568E10
+ Division of Double data types 444444.0 / 222222.0 = 2.0
+ Increment of Double data types ++444444.0 = 444445.0 and 222222.0++ = 222222.0
+ Decrement of Double data types --444444.0 = 444443.0 and 222222.0-- = 222222.0
+ Addition of Character data types A + B = 131
+ Subtraction of Character data types A - B = -1
+ Multiplication of Character data types A * B = 4290
+ Division of Character data types A / B = 0
+ Increment of Character data types ++A = B and B++ = B
+ Decrement of Character data types --A = @ and B-- = B
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The operator + is undefined for the argument type(s) boolean, boolean
+
+	at DataTypesAndArithmeticOperations.addition(DataTypesAndArithmeticOperations.java:308)
+	at DataTypesAndArithmeticOperations.main(DataTypesAndArithmeticOperations.java:87)
